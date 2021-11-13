@@ -1,0 +1,14 @@
+footer {
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
+
+a {
+    color: white;
+
+}
+
+.list-unstyled {
+    list-style-type: none;
+}

@@ -1,0 +1,41 @@
+
+
+header {
+    background-color: rgb(82, 82, 190);
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.site-title {
+    font-family: 'Roboto', serif;
+    color: darkgray;
+    font-size: 40px;
+    padding: 20px 0 10px;
+}
+
+.header-nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(37, 37, 134);
+} 
+
+.header-nav nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.header-nav nav ul li {
+    margin-right: 40px;
+}
+
+.header-nav nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto';
+}
+
